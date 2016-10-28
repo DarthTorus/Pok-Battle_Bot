@@ -1,0 +1,86 @@
+{
+"pokemon":[{
+    "name": "Bulbasaur",
+    "type": ["GRASS","POISON"],
+    "stab" : [22,75,76],
+    "moves" : [22,33,45,73,74,75,76,77,79],
+    "stats" : {
+      "hp" : 45,
+      "attack" : 49,
+      "defense" : 49,
+      "special_attack" : 65,
+      "special_defense": 65,
+      "speed" : 45
+    }
+  },
+  {
+    "name": "Ivysaur",
+    "type": ["GRASS","POISON"],
+    "stab" : [22,75,76],
+    "moves" : [22,33,45,73,74,75,76,77,79],
+    "stats" : {
+      "hp" : 60,
+      "attack" : 62,
+      "defense" : 63,
+      "special_attack" : 80,
+      "special_defense": 80,
+      "speed" : 60
+    }
+  },
+  {
+    "name": "Venusaur",
+    "type": ["GRASS","POISON"],
+    "stab" : [22,75,76],
+    "moves" : [22,33,45,73,74,75,76,77,79],
+    "stats" : {
+      "hp" : 80,
+      "attack" : 82,
+      "defense" : 83,
+      "special_attack" : 100,
+      "special_defense": 100,
+      "speed" : 80
+    }
+  },
+  {
+    "name": "Charmander",
+    "type": ["FIRE"],
+    "stab" : [52,53,83],
+    "moves" : [10,43,45,52,53,83,99,163],
+    "stats" : {
+      "hp" : 39,
+      "attack" : 52,
+      "defense" : 43,
+      "special_attack" : 60,
+      "special_defense": 50,
+      "speed" : 65
+    }
+  },
+  {
+    "name": "Charmeleon",
+    "type": ["FIRE"],
+    "stab" : [52,53,83],
+    "moves" : [10,43,45,52,53,83,99,163],
+    "stats" : {
+      "hp" : 58,
+      "attack" : 64,
+      "defense" : 58,
+      "special_attack" : 80,
+      "special_defense": 65,
+      "speed" : 80
+    }
+  },
+  {
+    "name": "Charizard",
+    "type": ["FIRE"],
+    "stab" : [52,53,83],
+    "moves" : [10,43,45,52,53,83,99,163],
+    "stats" : {
+      "hp" : 78,
+      "attack" : 84,
+      "defense" : 78,
+      "special_attack" : 109,
+      "special_defense": 85,
+      "speed" : 100
+    }
+  }]
+}
