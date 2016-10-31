@@ -1,86 +1,198 @@
 {
-"pokemon":[{
-    "name": "Bulbasaur",
-    "type": ["GRASS","POISON"],
-    "stab" : [22,75,76],
-    "moves" : [22,33,45,73,74,75,76,77,79],
-    "stats" : {
-      "hp" : 45,
-      "attack" : 49,
-      "defense" : 49,
-      "special_attack" : 65,
-      "special_defense": 65,
-      "speed" : 45
-    }
-  },
-  {
-    "name": "Ivysaur",
-    "type": ["GRASS","POISON"],
-    "stab" : [22,75,76],
-    "moves" : [22,33,45,73,74,75,76,77,79],
-    "stats" : {
-      "hp" : 60,
-      "attack" : 62,
-      "defense" : 63,
-      "special_attack" : 80,
-      "special_defense": 80,
-      "speed" : 60
-    }
-  },
-  {
-    "name": "Venusaur",
-    "type": ["GRASS","POISON"],
-    "stab" : [22,75,76],
-    "moves" : [22,33,45,73,74,75,76,77,79],
-    "stats" : {
-      "hp" : 80,
-      "attack" : 82,
-      "defense" : 83,
-      "special_attack" : 100,
-      "special_defense": 100,
-      "speed" : 80
-    }
-  },
-  {
-    "name": "Charmander",
-    "type": ["FIRE"],
-    "stab" : [52,53,83],
-    "moves" : [10,43,45,52,53,83,99,163],
-    "stats" : {
-      "hp" : 39,
-      "attack" : 52,
-      "defense" : 43,
-      "special_attack" : 60,
-      "special_defense": 50,
-      "speed" : 65
-    }
-  },
-  {
-    "name": "Charmeleon",
-    "type": ["FIRE"],
-    "stab" : [52,53,83],
-    "moves" : [10,43,45,52,53,83,99,163],
-    "stats" : {
-      "hp" : 58,
-      "attack" : 64,
-      "defense" : 58,
-      "special_attack" : 80,
-      "special_defense": 65,
-      "speed" : 80
-    }
-  },
-  {
-    "name": "Charizard",
-    "type": ["FIRE"],
-    "stab" : [52,53,83],
-    "moves" : [10,43,45,52,53,83,99,163],
-    "stats" : {
-      "hp" : 78,
-      "attack" : 84,
-      "defense" : 78,
-      "special_attack" : 109,
-      "special_defense": 85,
-      "speed" : 100
-    }
-  }]
+    "pokemon": [{
+        "name": "Bulbasaur",
+        "type": ["GRASS", "POISON"],
+        "stab": [22, 75, 76],
+        "moves": [22, 33, 45, 73, 74, 75, 76, 77, 79],
+        "stats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "special_attack": 65,
+            "special_defense": 65,
+            "speed": 45
+        }
+    }, {
+        "name": "Ivysaur",
+        "type": ["GRASS", "POISON"],
+        "stab": [22, 75, 76],
+        "moves": [22, 33, 45, 73, 74, 75, 76, 77, 79],
+        "stats": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "special_attack": 80,
+            "special_defense": 80,
+            "speed": 60
+        }
+    }, {
+        "name": "Venusaur",
+        "type": ["GRASS", "POISON"],
+        "stab": [22, 75, 76],
+        "moves": [22, 33, 45, 73, 74, 75, 76, 77, 79],
+        "stats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "special_attack": 100,
+            "special_defense": 100,
+            "speed": 80
+        }
+    }, {
+        "name": "Charmander",
+        "type": ["FIRE"],
+        "stab": [52, 53, 83],
+        "moves": [10, 43, 45, 52, 53, 83, 99, 163],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "special_attack": 60,
+            "special_defense": 50,
+            "speed": 65
+        }
+    }, {
+        "name": "Charmeleon",
+        "type": ["FIRE"],
+        "stab": [52, 53, 83],
+        "moves": [10, 43, 45, 52, 53, 83, 99, 163],
+        "stats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "special_attack": 80,
+            "special_defense": 65,
+            "speed": 80
+        }
+    }, {
+        "name": "Charizard",
+        "type": ["FIRE"],
+        "stab": [52, 53, 83],
+        "moves": [10, 43, 45, 52, 53, 83, 99, 163],
+        "stats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "special_attack": 109,
+            "special_defense": 85,
+            "speed": 100
+        }
+    }, {
+        "name": "Squirtle",
+        "type": ["WATER"],
+        "stab": [55, 56, 145],
+        "moves": [33, 39, 44, 55, 56, 110, 130, 145],
+        "stats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "special_attack": 50,
+            "special_defense": 50,
+            "speed": 43
+        }
+    }, {
+        "name": "Wartortle",
+        "type": ["WATER"],
+        "stab": [55, 56, 145],
+        "moves": [33, 39, 44, 55, 56, 110, 130, 145],
+        "stats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "special_attack": 65,
+            "special_defense": 65,
+            "speed": 58
+        }
+    }, {
+        "name": "Blastoise",
+        "type": ["WATER"],
+        "stab": [55, 56, 145],
+        "moves": [33, 39, 44, 55, 56, 110, 130, 145],
+        "stats": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "special_attack": 85,
+            "special_defense": 85,
+            "speed": 78
+        }
+    }, {
+        "name": "Caterpie",
+        "type": ["BUG"],
+        "stab": [],
+        "moves": [81,33],
+        "stats": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "special_attack": 20,
+            "special_defense": 20,
+            "speed": 45
+        }
+    }, {
+        "name": "Metapod",
+        "type": ["BUG"],
+        "stab": [],
+        "moves": [106],
+        "stats": {
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "special_attack": 25,
+            "special_defense": 25,
+            "speed": 30
+        }
+    }, {
+        "name": "Butterfree",
+        "type": ["BUG","FLYING"],
+        "stab": [],
+        "moves": [16,18,48,60,78,79,93],
+        "stats": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "special_attack": 80,
+            "special_defense": 80,
+            "speed": 70
+        }
+    }, {
+        "name": "Weedle",
+        "type": ["BUG","POISON"],
+        "stab": [40],
+        "moves": [40, 81],
+        "stats": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "special_attack": 20,
+            "special_defense": 20,
+            "speed": 50
+        }
+    }, {
+        "name": "Kakuna",
+        "type": ["BUG","POISON"],
+        "stab": [],
+        "moves": [106],
+        "stats": {
+            "hp": 40,
+            "attack": 25,
+            "defense": 50,
+            "special_attack": 25,
+            "special_defense": 25,
+            "speed": 35
+        }
+    }, {
+        "name": "Beedrill",
+        "type": ["BUG","POISON"],
+        "stab": [41,42],
+        "moves": [31,97,99,116,41,42],
+        "stats": {
+            "hp": 65,
+            "attack": 150,
+            "defense": 40,
+            "special_attack": 15,
+            "special_defense": 80,
+            "speed": 145
+        }
+    }]
 }
