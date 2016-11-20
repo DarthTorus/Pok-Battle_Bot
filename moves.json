@@ -213,5 +213,93 @@
         "power": 70,
         "accuracy": 1,
         "statusEffect": []
+    }, {
+        "name": "Rolling Kick",
+        "type": "FIGHTING",
+        "category": "physical",
+        "pp": 15,
+        "power": 60,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Sand Attack",
+        "type": "NORMAL",
+        "category": "status",
+        "pp": 15,
+        "power": 0,
+        "accuracy": 1,
+        "statusEffect": [-1, "accuracy", "target"]
+    }, {
+        "name": "Head Butt",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 15,
+        "power": 70,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Horn Attack",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 25,
+        "power": 65,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Fury Attack",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 15,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Horn Drill",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 5,
+        "power": 0,
+        "accuracy": 0.3,
+        "statusEffect": []
+    }, {
+        "name": "Tackle",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 35,
+        "power": 35,
+        "accuracy": 0.95,
+        "statusEffect": []
+    }, {
+        "name": "Body Slam",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 15,
+        "power": 85,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Wrap",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 15,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Take Down",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 90,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Thrash",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 90,
+        "accuracy": 1,
+        "statusEffect": []
     }]
 }
