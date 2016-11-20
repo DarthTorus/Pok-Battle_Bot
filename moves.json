@@ -1,215 +1,305 @@
 {
-  "moves": [{
-    "name":"Pound",
-    "type": "NORMAL",
-    "category": "physical",
-    "pp": 35,
-    "power": 40,
-    "accuracy": 1,
-    "statusEffect": []
+    "moves": [{
+        "name": "Pound",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 35,
+        "power": 40,
+        "accuracy": 1,
+        "statusEffect": []
 
-  },
-  {
-    "name":"Karate Chop",
-    "type": "FIGHTING",
-    "category": "physical",
-    "pp": 25,
-    "power": 50,
-    "accuracy": 1,
-    "statusEffect": []
+    }, {
+        "name": "Karate Chop",
+        "type": "FIGHTING",
+        "category": "physical",
+        "pp": 25,
+        "power": 50,
+        "accuracy": 1,
+        "statusEffect": []
 
-  },
-  {
-    "name":"Double Slap",
-    "type": "NORMAL",
-    "category": "physical",
-    "pp": 10,
-    "power": 15,
-    "accuracy": 0.85,
-    "statusEffect": []
+    }, {
+        "name": "Double Slap",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 10,
+        "power": 15,
+        "accuracy": 0.85,
+        "statusEffect": []
 
-  },
-  {
-    "name" : "Comet Punch",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 15,
-    "power" : 18,
-    "accuracy" : 0.85,
-    "statusEffect" : []
+    }, {
+        "name": "Comet Punch",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 15,
+        "power": 18,
+        "accuracy": 0.85,
+        "statusEffect": []
 
-  },
-  {
-    "name" : "Mega Punch",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 20,
-    "power" : 80,
-    "accuracy" : 0.85,
-    "statusEffect" : []
+    }, {
+        "name": "Mega Punch",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 80,
+        "accuracy": 0.85,
+        "statusEffect": []
 
-  },
-  {
-    "name" : "Pay Day",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 20,
-    "power" : 40,
-    "accuracy" : 1,
-    "statusEffect" : []
+    }, {
+        "name": "Pay Day",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 40,
+        "accuracy": 1,
+        "statusEffect": []
 
-  },
-  {
-    "name" : "Fire Punch",
-    "type" : "FIRE",
-    "category" : "physical",
-    "pp" : 15,
-    "power" : 75,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Ice Punch",
-    "type" : "ICE",
-    "category" : "physical",
-    "pp" : 15,
-    "power" : 75,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Thunder Punch",
-    "type" : "ELECTRIC",
-    "category" : "physical",
-    "pp" : 15,
-    "power" : 75,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Scratch",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 35,
-    "power" : 40,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Vice Grip",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 30,
-    "power" : 55,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Guillotine",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 5,
-    "power" : 30,
-    "accuracy" : 0.3,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Razor Wind",
-    "type" : "NORMAL",
-    "category" : "special",
-    "pp" : 10,
-    "power" : 80,
-    "accuracy" : 0.75,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Swords Dance",
-    "type" : "NORMAL",
-    "category" : "status",
-    "pp" : 30,
-    "power" : 0,
-    "accuracy" : 0,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Cut",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 30,
-    "power" : 50,
-    "accuracy" : 0.95,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Gust",
-    "type" : "NORMAL",
-    "category" : "special",
-    "pp" : 35,
-    "power" : 40,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Wing Attack",
-    "type" : "FLYING",
-    "category" : "physical",
-    "pp" : 35,
-    "power" : 35,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Whirlwind",
-    "type" : "NORMAL",
-    "category" : "status",
-    "pp" : 20,
-    "power" : 0,
-    "accuracy" : 0.85,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Fly",
-    "type" : "FLYING",
-    "category" : "physical",
-    "pp" : 15,
-    "power" : 70,
-    "accuracy" : 0.95,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Bind",
-    "type" : "NORMAL",
-    "category" : "special",
-    "pp" : 20,
-    "power" : 15,
-    "accuracy" : 0.75,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Slam",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 20,
-    "power" : 80,
-    "accuracy" : 0.75,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Vine Whip",
-    "type" : "GRASS",
-    "category" : "physical",
-    "pp" : 10,
-    "power" : 35,
-    "accuracy" : 1,
-    "statusEffect" : []
-  },
-  {
-    "name" : "Stomp",
-    "type" : "NORMAL",
-    "category" : "physical",
-    "pp" : 20,
-    "power" : 65,
-    "accuracy" : 1,
-    "statusEffect" : []
-  }]
+    }, {
+        "name": "Fire Punch",
+        "type": "FIRE",
+        "category": "physical",
+        "pp": 15,
+        "power": 75,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Ice Punch",
+        "type": "ICE",
+        "category": "physical",
+        "pp": 15,
+        "power": 75,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Thunder Punch",
+        "type": "ELECTRIC",
+        "category": "physical",
+        "pp": 15,
+        "power": 75,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Scratch",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 35,
+        "power": 40,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Vice Grip",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 30,
+        "power": 55,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Guillotine",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 5,
+        "power": 30,
+        "accuracy": 0.3,
+        "statusEffect": []
+    }, {
+        "name": "Razor Wind",
+        "type": "NORMAL",
+        "category": "special",
+        "pp": 10,
+        "power": 80,
+        "accuracy": 0.75,
+        "statusEffect": []
+    }, {
+        "name": "Swords Dance",
+        "type": "NORMAL",
+        "category": "status",
+        "pp": 30,
+        "power": 0,
+        "accuracy": 0,
+        "statusEffect": []
+    }, {
+        "name": "Cut",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 30,
+        "power": 50,
+        "accuracy": 0.95,
+        "statusEffect": []
+    }, {
+        "name": "Gust",
+        "type": "NORMAL",
+        "category": "special",
+        "pp": 35,
+        "power": 40,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Wing Attack",
+        "type": "FLYING",
+        "category": "physical",
+        "pp": 35,
+        "power": 35,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Whirlwind",
+        "type": "NORMAL",
+        "category": "status",
+        "pp": 20,
+        "power": 0,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Fly",
+        "type": "FLYING",
+        "category": "physical",
+        "pp": 15,
+        "power": 70,
+        "accuracy": 0.95,
+        "statusEffect": []
+    }, {
+        "name": "Bind",
+        "type": "NORMAL",
+        "category": "special",
+        "pp": 20,
+        "power": 15,
+        "accuracy": 0.75,
+        "statusEffect": []
+    }, {
+        "name": "Slam",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 80,
+        "accuracy": 0.75,
+        "statusEffect": []
+    }, {
+        "name": "Vine Whip",
+        "type": "GRASS",
+        "category": "physical",
+        "pp": 10,
+        "power": 35,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Stomp",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 65,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Double Kick",
+        "type": "FIGHTING",
+        "category": "physical",
+        "pp": 30,
+        "power": 30,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Mega Kick",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 5,
+        "power": 120,
+        "accuracy": 0.75,
+        "statusEffect": []
+    }, {
+        "name": "Jump Kick",
+        "type": "FIGHTING",
+        "category": "physical",
+        "pp": 25,
+        "power": 70,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Rolling Kick",
+        "type": "FIGHTING",
+        "category": "physical",
+        "pp": 15,
+        "power": 60,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Sand Attack",
+        "type": "NORMAL",
+        "category": "status",
+        "pp": 15,
+        "power": 0,
+        "accuracy": 1,
+        "statusEffect": [-1, "accuracy", "target"]
+    }, {
+        "name": "Head Butt",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 15,
+        "power": 70,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Horn Attack",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 25,
+        "power": 65,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Fury Attack",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 15,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Horn Drill",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 5,
+        "power": 0,
+        "accuracy": 0.3,
+        "statusEffect": []
+    }, {
+        "name": "Tackle",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 35,
+        "power": 35,
+        "accuracy": 0.95,
+        "statusEffect": []
+    }, {
+        "name": "Body Slam",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 15,
+        "power": 85,
+        "accuracy": 1,
+        "statusEffect": []
+    }, {
+        "name": "Wrap",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 15,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Take Down",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 90,
+        "accuracy": 0.85,
+        "statusEffect": []
+    }, {
+        "name": "Thrash",
+        "type": "NORMAL",
+        "category": "physical",
+        "pp": 20,
+        "power": 90,
+        "accuracy": 1,
+        "statusEffect": []
+    }]
 }

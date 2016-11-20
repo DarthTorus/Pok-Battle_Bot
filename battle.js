@@ -15,6 +15,9 @@ class Battle {
 
 	}
 
+	//IF move.category == "status", then don't calculate Damage. Go into status calculation
+
+
 	//  this.generateID = function() {
 	//    var idText = "";
 	//    for(i=0; i< 18; i++) {
@@ -120,8 +123,6 @@ class Pokemon {
 	// 	this.moves[i] = new Move(p.pokemon[pIndex].moves[moveIndex]);
 	//   //console.log(m.moves[moveIndex]);
 	// }
-
-
 
 }
 
