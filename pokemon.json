@@ -194,5 +194,122 @@
             "special_defense": 80,
             "speed": 145
         }
+    }, {
+        "name": "Pidgey",
+        "type": ["NORMAL","FLYING"],
+        "stab": [16,17,98],
+        "moves": [16,17,18,28,97,98,119],
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "special_attack": 35,
+            "special_defense": 35,
+            "speed": 56
+        }
+    }, {
+        "name": "Pidgeotto",
+        "type": ["NORMAL","FLYING"],
+        "stab": [16,17,98],
+        "moves": [16,17,18,28,97,98,119],
+        "stats": {
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "special_attack": 50,
+            "special_defense": 50,
+            "speed": 71
+        }
+    }, {
+        "name": "Pidgeot",
+        "type": ["NORMAL","FLYING"],
+        "stab": [16,17,98],
+        "moves": [16,17,18,28,97,98,119],
+        "stats": {
+            "hp": 83,
+            "attack": 80,
+            "defense": 75,
+            "special_attack": 70,
+            "special_defense": 70,
+            "speed": 91
+        }
+    }, {
+        "name": "Rattata",
+        "type": ["NORMAL"],
+        "stab": [33,98,158],
+        "moves": [33,39,98,158,116,162],
+        "stats": {
+            "hp": 30,
+            "attack": 56,
+            "defense": 35,
+            "special_attack": 25,
+            "special_defense": 35,
+            "speed": 72
+        }
+    }, {
+        "name": "Raticate",
+        "type": ["NORMAL"],
+        "stab": [33,98,158],
+        "moves": [33,39,98,158,116,162],
+        "stats": {
+            "hp": 55,
+            "attack": 81,
+            "defense": 60,
+            "special_attack": 50,
+            "special_defense": 70,
+            "speed": 97
+        }
+    }, {
+        "name": "Spearow",
+        "type": ["NORMAL", "FLYING"],
+        "stab": [31,64,65],
+        "moves": [31,43,45,64,65,97,119],
+        "stats": {
+            "hp": 40,
+            "attack": 60,
+            "defense": 30,
+            "special_attack": 31,
+            "special_defense": 31,
+            "speed": 70 
+        }
+    }, {
+        "name": "Fearow",
+        "type": ["NORMAL","FLYING"],
+        "stab": [31,64,65],
+        "moves": [31,43,45,64,65,97,119],
+        "stats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 65,
+            "special_attack": 61,
+            "special_defense": 61,
+            "speed": 100
+        }
+    }, {
+        "name": "Ekans",
+        "type": ["POISON"],
+        "stab": [40,51],
+        "moves": [35,40,43,45,51,103,137],
+        "stats": {
+            "hp": 35,
+            "attack": 60,
+            "defense": 44,
+            "special_attack": 40,
+            "special_defense": 54,
+            "speed":  55
+        }
+    }, {
+        "name": "Arbok",
+        "type": ["POISON"],
+        "stab": [40,51],
+        "moves": [35,40,43,45,51,103,137],
+        "stats": {
+            "hp": 60,
+            "attack": 85,
+            "defense": 69,
+            "special_attack": 65,
+            "special_defense": 79,
+            "speed": 80
+        }
     }]
 }
